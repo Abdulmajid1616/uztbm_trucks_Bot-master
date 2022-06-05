@@ -1,0 +1,8 @@
+(🌐 Tilni tanlash) function
+(📞 Bog'lanish uchun) inline button
+(🏢 Kompaniya haqida) big photo
+(🎁 Chegirmalar) big photos
+(🔥 Sotuvda mavjud avtomobillar) big photo
+(📔 Mahsulot katalogi) pdf
+()
+()
